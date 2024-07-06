@@ -50,3 +50,12 @@ The Kafka ecosystem includes several important tools and components:
 
 Apache Kafka is a powerful tool for handling real-time data. It’s reliable, scalable, and can process large amounts of data quickly. Whether used for logging, event sourcing, real-time analytics, or connecting different data systems, Kafka provides the tools needed to build efficient and resilient data-driven applications.
 
+#Reference:
+---
+[https://www.youtube.com/watch?v=0V9SK6jmDPk]
+[https://www.youtube.com/watch?v=1lcqtpT3lhU]
+[https://www.geeksforgeeks.org/apache-kafka/]
+[https://en.wikipedia.org/wiki/Apache_Kafka]
+[https://www.openlogic.com/]
+
+
