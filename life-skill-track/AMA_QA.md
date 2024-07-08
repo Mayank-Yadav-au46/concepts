@@ -1,6 +1,6 @@
 
 
-**Q.1 What is the difference between (==) and (===) operator ?**    
+**Q.1** What is the difference between (==) and (===) operator ?   
 **Ans:** The `==` operator compares the data only without comparing datatypes, but `===` operator compares datatype as well along with the value. Flaws of `==`:  
 ---
 ```javascript
